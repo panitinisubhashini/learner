@@ -2,6 +2,8 @@ hello
 Java
 SpringFramework
 Mysql
+log4j
+git
 Serialization
 webmmvc
 maven tool
